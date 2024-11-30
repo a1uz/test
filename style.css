@@ -1,0 +1,71 @@
+*{
+   font-family: "Poppins", sans-serif; 
+
+}
+
+body{
+  background-image: url(https://cdn.create.vista.com/api/media/small/34854619/stock-photo-mountains-with-trees-and-fog);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+
+}
+
+
+.login{
+   font-size: 30px;
+   color: white;
+}
+
+.have{
+   font-size: 12px;
+    color: white;
+}
+
+.d{
+    text-align: center;
+ 
+}
+
+.a{
+  font-size: 20px;
+  border: 1px solid ;
+  background-color: rgba(133, 176, 241, 0.429);
+  border-radius: 100px;
+  text-size-adjust: px;
+  height: 30px;
+  font-size: 12px;
+  width: 250px;
+  text-align: center;
+}
+
+button{
+    font-size: 20px;
+    border: 0px solid ;
+    background-color: rgba(230, 230, 230, 0.854);
+    border-radius: 100px;
+    text-size-adjust: px;
+    height: 35px;
+    font-size: 12px;
+    width: 259px;
+    border: 1px solid;
+}
+
+label{
+  font-size: 10px;
+  width: 1000px;
+  color: white;
+}
+
+.y{
+    font-size: 10px;
+    color: white;
+}
+
+
+
+
+
+
+
